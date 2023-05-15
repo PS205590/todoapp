@@ -180,6 +180,10 @@ input {
     margin: 0 0 10px;
 }
 
+#addBtn:hover, #clearBtn:hover {
+	transform: translateY(-10px);
+	
+}
 
 
 
